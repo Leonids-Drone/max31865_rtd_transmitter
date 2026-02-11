@@ -3,6 +3,7 @@
 # =========================
 
 # Autosave / backup
+*.zip
 *.bak
 *.bck
 *.kicad_pcb-bak
