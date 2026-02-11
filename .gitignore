@@ -1,0 +1,86 @@
+# =========================
+# KiCad
+# =========================
+
+# Autosave / backup
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak.*
+_autosave-*
+*.tmp
+*.temp
+*.old
+*.orig
+
+# KiCad lock files
+~*
+*.lck
+
+# KiCad cache / netlist / plots
+*.dcm
+*.net
+*.xml
+*.csv
+*.pos
+*.rpt
+
+# KiCad 6+ cache
+*.kicad_sch-cache
+*.kicad_pcb-cache
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+# 3D cache (some setups)
+*.wrlcache
+*.stepcache
+
+# KiCad generated folders (common)
+# (keep if you intentionally version outputs)
+# **/gerbers/
+# **/drill/
+# **/plots/
+
+# =========================
+# Manufacturing / exports (optional)
+# Uncomment if you don't want these in git
+# =========================
+# *.gbr
+# *.drl
+# *.ger
+# *.gm1
+# *.gko
+# *.gtl
+# *.gbl
+# *.gts
+# *.gbs
+# *.gto
+# *.gbo
+# *.g2l
+# *.g3l
+# *.g2b
+# *.g3b
+# *.pdf
+# *.svg
+# *.png
+# *.zip
+
+# =========================
+# OS / editor
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# =========================
+# Python / node (if your repo has scripts)
+# =========================
+__pycache__/
+*.pyc
+node_modules/
+
