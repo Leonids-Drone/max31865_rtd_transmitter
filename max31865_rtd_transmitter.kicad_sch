@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "dc8027dc-7a5a-405b-b972-96310d06552d")
 	(paper "A4")
 	(lib_symbols)
@@ -423,11 +423,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "3029a8bb-a1e6-47d1-8955-cfb79f7c9976")
 		(property "Sheetname" "31865_ch3"
 			(at 163.83 118.6684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -437,6 +439,8 @@
 		)
 		(property "Sheetfile" "31865_ch0.kicad_sch"
 			(at 163.83 141.0466 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -505,11 +509,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "59d14f80-3d72-448d-9fb1-b07800359081")
 		(property "Sheetname" "screen"
 			(at 28.956 28.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -519,6 +525,8 @@
 		)
 		(property "Sheetfile" "screen.kicad_sch"
 			(at 28.956 42.7486 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -547,11 +555,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9337831f-ee19-408c-9ff9-cc4dc812eca2")
 		(property "Sheetname" "rp2350"
 			(at 93.98 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -561,6 +571,8 @@
 		)
 		(property "Sheetfile" "rp2350.kicad_sch"
 			(at 93.98 68.9106 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -659,11 +671,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9eb885bb-e81a-4d50-a480-694dfc3daf57")
 		(property "Sheetname" "31865_ch1"
 			(at 163.83 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -673,6 +687,8 @@
 		)
 		(property "Sheetfile" "31865_ch0.kicad_sch"
 			(at 163.83 83.8966 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -741,11 +757,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "df5450f1-4721-4b76-ac01-9f07f1162f54")
 		(property "Sheetname" "tf_sd_card"
 			(at 28.448 50.3424 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -755,6 +773,8 @@
 		)
 		(property "Sheetfile" "card.kicad_sch"
 			(at 28.448 70.9426 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -783,11 +803,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ed7dcc70-94a2-4637-92b9-782eef0dd111")
 		(property "Sheetname" "31865_ch2"
 			(at 163.83 89.4584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -797,6 +819,8 @@
 		)
 		(property "Sheetfile" "31865_ch0.kicad_sch"
 			(at 163.83 111.8366 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -865,11 +889,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "f213799d-a62a-4409-b48e-767cf5efb702")
 		(property "Sheetname" "31865_ch0"
 			(at 163.83 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -879,6 +905,8 @@
 		)
 		(property "Sheetfile" "31865_ch0.kicad_sch"
 			(at 163.83 55.9566 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
